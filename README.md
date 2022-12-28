@@ -18,7 +18,7 @@ Run the command to plot out the accuracies curves
 python plot_acc.py
 ```
 
-#Links
+# Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
 
 That's it. 
