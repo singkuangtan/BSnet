@@ -21,5 +21,9 @@ python plot_acc.py
 # Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
 
+[BSautonet paper link](https://vixra.org/abs/2212.0208)
+
+[BSautonet GitHub](https://github.com/singkuangtan/BSautonet)
+
 That's it. 
 Have a Nice Day!!!
