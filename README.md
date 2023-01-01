@@ -18,6 +18,8 @@ Run the command to plot out the accuracies curves
 python plot_acc.py
 ```
 
+![Experiment results](https://github.com/singkuangtan/BSnet/blob/main/acc.png)
+
 # Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
 
