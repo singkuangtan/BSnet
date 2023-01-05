@@ -20,7 +20,7 @@ python plot_acc.py
 
 # Model
 
-![Network design]()
+![Network design](https://github.com/singkuangtan/BSnet/blob/main/bsnet.png)
 
 # Experiment Results 
 
