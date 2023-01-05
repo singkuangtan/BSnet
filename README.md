@@ -1,5 +1,14 @@
 # BSnet
 Boolean Structured Deep Learning Network 
+Tell the LeNet bully to get lost
+
+# Main Takeaways
+
+- My model has 30000 parameters compared to LeNet 60000 parameters
+- Model based on the theory of monotone circuit of Boolean algebra
+- Under certain conditions, the training optimization function is convex
+- Use fully connected layers without overfitting
+- Able to be trained on a laptop without GPU
 
 The commands are designed to run on Windows OS. If you are using Linux, adapt the commands accordingly.
 
