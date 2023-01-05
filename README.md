@@ -18,6 +18,12 @@ Run the command to plot out the accuracies curves
 python plot_acc.py
 ```
 
+# Model
+
+![Network design]()
+
+# Experiment Results 
+
 ![Experiment results](https://github.com/singkuangtan/BSnet/blob/main/acc.png)
 
 # Links
