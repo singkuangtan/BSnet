@@ -44,6 +44,8 @@ python plot_acc.py
 
 [BSautonet GitHub](https://github.com/singkuangtan/BSautonet)
 
+[Discrete Markov Random Field Relaxation](https://vixra.org/abs/2112.0151)
+
 [Slideshare](https://www.slideshare.net/SingKuangTan)
 
 That's it. 
