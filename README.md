@@ -9,6 +9,7 @@
 - Under certain conditions, the training optimization function is convex
 - Use fully connected layers without overfitting
 - Able to be trained on a laptop without GPU
+- Able to achieve 80% classification accuracy after masking 70% of the input image pixels to value 1. A normal deep learning model can only achieve 60%
 
 # How to Run
 
