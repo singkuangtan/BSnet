@@ -1,6 +1,7 @@
 # BSnet
 - Boolean Structured Deep Learning Network 
 - Tell the LeNet bully to get lost
+- No data augmentations, no regularization such as weight decay and dropout
 
 # Main Takeaways
 
