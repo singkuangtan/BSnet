@@ -1,5 +1,6 @@
 # BSnet
-- Boolean Structured Deep Learning Network 
+- Boolean Structured Deep Learning Network
+- The network is designed to mimic monotone circuit in Boolean algebra theory 
 - Tell the LeNet bully to get lost
 - No data augmentations, no regularization such as weight decay and dropout
 
